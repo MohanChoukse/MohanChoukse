@@ -11,7 +11,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+-----
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="400" height="269" style="display: block; opacity: 5;">
 </div>
