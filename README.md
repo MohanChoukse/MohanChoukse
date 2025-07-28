@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;ML+&+AI;Open+Source+Enthusiast;Clean+Code+Lover;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;ML+and+AI;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <hr>
