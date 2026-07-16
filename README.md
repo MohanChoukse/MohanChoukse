@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/mohan-chouksey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-chouksey" height="30" width="40" /></a>
-<a href="https://instagram.com/mohan_88_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohan_88_5" height="30" width="40" /></a><a href="https://twitter.com/mohan_88_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_88_5" height="30" width="40" /></a>
+<a href="https://instagram.com/mohanchouksey885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohan_88_5" height="30" width="40" /></a><a href="https://twitter.com/mohan_88_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_88_5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
