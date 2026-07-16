@@ -16,7 +16,7 @@
 <hr><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanchoukse&label=Profile%20views&color=0e75b6&style=flat" alt="mohanchoukse" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohan_88_5" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_88_5?logo=twitter&style=for-the-badge" alt="mohanchouksey885" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohan_88_5" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_88_5?logo=x&style=for-the-badge" alt="mohanchouksey885" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
